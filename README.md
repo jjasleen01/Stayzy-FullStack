@@ -78,6 +78,8 @@ StayZy follows the **MVC (Model-View-Controller) architecture** to organize appl
 
 ## 🚀 Getting Started
 
+<br>
+<br>
 Follow these steps to run StayZy on your local machine.
 
 <br>
