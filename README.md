@@ -2,20 +2,39 @@
 
 StayZy is a full-stack vacation-rental listing web application where users can discover places to stay, create and manage property listings, view locations on an interactive map, and share reviews.
 
+<br>
+<br>
+
 ## Demo
 
 https://stayzy-vklf.onrender.com/listings
 
+### Demo Credentials
+
+- **Username:** DemoUser
+- **Password:** DemoUser
+
+You can also create a new account using the Sign Up option.
+
+<br>
+<br>
+
 ## Screenshots
 
 **Home Page**
+
 ![Home Page](screenshots/Home-Page.png)
 **Listing Details**
+
 ![Listing Details](screenshots/Listing-Details.png)
-![Listing Details](screenshots/Listing-Details2.png)
-![Listing Details](screenshots/Listing-Details3.png)
+![Listing Details](screenshots/ListingDetails2.png)
+![Listing Details](screenshots/ListingDetails3.png)
+
 **Create a Listing**
 ![Home Page](screenshots/Create-Listing.png)
+
+<br>
+<br>
 
 ## ✨ Features
 
@@ -26,6 +45,9 @@ https://stayzy-vklf.onrender.com/listings
 - ⭐**Reviews and Ratings:** Allow users to leave reviews with 1–5 star ratings.
 - 🛡️**Authorization:** Restrict listing modifications to owners and review deletion to review authors.
 - ✅**Data Validation:** Validate listing data using Joi and display feedback through flash messages.
+
+<br>
+<br>
 
 ## 💻 Tech Stack
 
@@ -38,6 +60,9 @@ https://stayzy-vklf.onrender.com/listings
 - **Maps & Geocoding:** Mapbox
 - **Validation:** Joi
 
+<br>
+<br>
+
 ## 🏗️ Application Architecture
 
 StayZy follows the **MVC (Model-View-Controller) architecture** to organize application logic and separate responsibilities.
@@ -48,9 +73,15 @@ StayZy follows the **MVC (Model-View-Controller) architecture** to organize appl
 - **Routes:** Define endpoints and connect incoming requests to the appropriate controllers.
 - **Middleware:** Handle authentication, authorization, data validation, session management, and error handling.
 
+<br>
+<br>
+
 ## 🚀 Getting Started
 
 Follow these steps to run StayZy on your local machine.
+
+<br>
+<br>
 
 ### 📋 Prerequisites
 
@@ -58,6 +89,9 @@ Follow these steps to run StayZy on your local machine.
 - MongoDB connection string
 - Cloudinary account
 - Mapbox access token
+
+<br>
+<br>
 
 ### 1️⃣ Clone the Repository
 
@@ -97,9 +131,21 @@ Open your browser and visit:
 
 http://localhost:8080/listings
 
+<br>
+<br>
+
 ## 🔮 Future Improvements
 
 - 🔍 **Search & Filters:** Search listings by location and filter by price.
 - 📅 **Booking System:** Add a booking feature with an availability calendar.
 - ❤️ **Wishlist:** Allow users to save their favorite properties.
 - ⭐ **Review Management:** Allow users to edit their existing reviews.
+
+<br>
+<br>
+
+## Author
+
+**Jasleen**
+
+- GitHub: [@jjasleen01](https://github.com/jjasleen01)
