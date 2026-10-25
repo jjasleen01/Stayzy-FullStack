@@ -1,8 +1,6 @@
-# 🏡 StayZy
+# StayZy🏡
 
 StayZy is a full-stack vacation-rental listing web application where users can discover places to stay, create and manage property listings, view locations on an interactive map, and share reviews.
-
-<br>
 
 ## Demo
 
@@ -15,13 +13,12 @@ https://stayzy-vklf.onrender.com/listings
 
 You can also create a new account using the Sign Up option.
 
-<br>
-
 ## Screenshots
 
 **Home Page**
 
 ![Home Page](screenshots/Home-Page.png)
+
 **Listing Details**
 
 ![Listing Details](screenshots/Listing-Details.png)
