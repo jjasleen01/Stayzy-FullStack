@@ -12,6 +12,7 @@ https://stayzy-vklf.onrender.com/listings
 - **Password:** DemoUser
 
 You can also create a new account using the Sign Up option.
+
 <br>
 
 ## Screenshots
@@ -145,4 +146,4 @@ http://localhost:8080/listings
 **Jasleen**
 
 - GitHub: [@jjasleen01](https://github.com/jjasleen01)
-- Linkedin: [@jjasleen01](https://www.linkedin.com/in/jjasleen01)
+- LinkedIn: [@jjasleen01](https://www.linkedin.com/in/jjasleen01)
