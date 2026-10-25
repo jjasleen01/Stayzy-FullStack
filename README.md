@@ -8,13 +8,14 @@ https://stayzy-vklf.onrender.com/listings
 
 ## Screenshots
 
-Home Page
-![Home Page](https://dummyimage.com/468x300?text=App+Screenshot+Here)
-Listing Details
-![Home Page](https://dummyimage.com/468x300?text=App+Screenshot+Here)
-![Home Page](https://dummyimage.com/468x300?text=App+Screenshot+Here)
-Create a Listing
-![Home Page](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+**Home Page**
+![Home Page](screenshots/Home-Page.png)
+**Listing Details**
+![Listing Details](screenshots/Listing-Details.png)
+![Listing Details](screenshots/Listing-Details2.png)
+![Listing Details](screenshots/Listing-Details3.png)
+**Create a Listing**
+![Home Page](screenshots/Create-Listing.png)
 
 ## ✨ Features
 
@@ -28,63 +29,24 @@ Create a Listing
 
 ## 💻 Tech Stack
 
-- 💻 **Backend:** Node.js, Express.js
-- 🗄️ **Database:** MongoDB, Mongoose
-- 🎨 **Frontend:** EJS, ejs-mate, Bootstrap, CSS
-- 🔐 **Authentication:** Passport.js, Passport-Local-Mongoose
-- 📦 **Session Management:** express-session, connect-mongo
-- 🖼️ **Image Storage:** Cloudinary, Multer
-- 🗺️ **Maps & Geocoding:** Mapbox
-- ✅ **Validation:** Joi
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Frontend:** EJS, ejs-mate, Bootstrap, CSS
+- **Authentication:** Passport.js, Passport-Local-Mongoose
+- **Session Management:** express-session, connect-mongo
+- **Image Storage:** Cloudinary, Multer
+- **Maps & Geocoding:** Mapbox
+- **Validation:** Joi
 
-## 🚀 Getting Started
+## 🏗️ Application Architecture
 
-Follow these steps to run StayZy on your local machine.
+StayZy follows the **MVC (Model-View-Controller) architecture** to organize application logic and separate responsibilities.
 
-### 📋 Prerequisites
-
-- Node.js and npm
-- MongoDB connection string
-- Cloudinary account
-- Mapbox access token
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/jjasleen01/Stayzy-FullStack.git
-cd Stayzy-FullStack
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-### 3️⃣ Configure Environment Variables
-
-Create a `.env` file in the project root and add:
-
-```env
-ATLASDB_URL=your_mongodb_connection_string
-SECRET=your_session_secret
-CLOUD_NAME=your_cloudinary_cloud_name
-CLOUD_API_KEY=your_cloudinary_api_key
-CLOUD_API_SECRET=your_cloudinary_api_secret
-MAP_TOKEN=your_mapbox_access_token
-```
-
-Replace the placeholder values with your own credentials. Never commit your `.env` file or expose your API secrets.
-
-### 4️⃣ Start the Application
-
-```bash
-node app.js
-```
-
-Open your browser and visit:
-
-http://localhost:8080/listings
+- **Models:** Define MongoDB schemas for users, listings, and reviews using Mongoose.
+- **Views:** Render dynamic web pages using EJS and ejs-mate.
+- **Controllers:** Handle application logic for listings, reviews, and user authentication.
+- **Routes:** Define endpoints and connect incoming requests to the appropriate controllers.
+- **Middleware:** Handle authentication, authorization, data validation, session management, and error handling.
 
 ## 🚀 Getting Started
 
