@@ -52,7 +52,8 @@ StayZy follows the **MVC (Model-View-Controller) architecture** to organize appl
 - **Middleware:** Handle authentication, authorization, data validation, session management, and error handling.
 
 ## 🚀 Getting Started
-
+<br>
+<br>
 Follow these steps to run StayZy on your local machine.
 
 ### 📋 Prerequisites
