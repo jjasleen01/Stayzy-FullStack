@@ -1,6 +1,7 @@
 # StayZy🏡
 
 StayZy is a full-stack vacation-rental listing web application where users can discover places to stay, create and manage property listings, view locations on an interactive map, and share reviews.
+The project uses MVC architecture with server-side rendering and includes authorization, data validation, and session management for a secure and reliable user experience.
 
 ## 🔗 Demo
 
