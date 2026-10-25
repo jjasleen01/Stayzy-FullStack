@@ -3,7 +3,6 @@
 StayZy is a full-stack vacation-rental listing web application where users can discover places to stay, create and manage property listings, view locations on an interactive map, and share reviews.
 
 <br>
-<br>
 
 ## Demo
 
@@ -16,7 +15,6 @@ https://stayzy-vklf.onrender.com/listings
 
 You can also create a new account using the Sign Up option.
 
-<br>
 <br>
 
 ## Screenshots
@@ -34,7 +32,6 @@ You can also create a new account using the Sign Up option.
 ![Home Page](screenshots/Create-Listing.png)
 
 <br>
-<br>
 
 ## ✨ Features
 
@@ -46,7 +43,6 @@ You can also create a new account using the Sign Up option.
 - 🛡️**Authorization:** Restrict listing modifications to owners and review deletion to review authors.
 - ✅**Data Validation:** Validate listing data using Joi and display feedback through flash messages.
 
-<br>
 <br>
 
 ## 💻 Tech Stack
@@ -61,7 +57,6 @@ You can also create a new account using the Sign Up option.
 - **Validation:** Joi
 
 <br>
-<br>
 
 ## 🏗️ Application Architecture
 
@@ -73,7 +68,6 @@ StayZy follows the **MVC (Model-View-Controller) architecture** to organize appl
 - **Routes:** Define endpoints and connect incoming requests to the appropriate controllers.
 - **Middleware:** Handle authentication, authorization, data validation, session management, and error handling.
 
-<br>
 <br>
 
 ## 🚀 Getting Started
@@ -127,7 +121,6 @@ Open your browser and visit:
 http://localhost:8080/listings
 
 <br>
-<br>
 
 ## 🔮 Future Improvements
 
@@ -136,7 +129,6 @@ http://localhost:8080/listings
 - ❤️ **Wishlist:** Allow users to save their favorite properties.
 - ⭐ **Review Management:** Allow users to edit their existing reviews.
 
-<br>
 <br>
 
 ## Author
