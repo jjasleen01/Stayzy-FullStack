@@ -16,18 +16,27 @@ You can also create a new account using the Sign Up option.
 
 ## Screenshots
 
-**Home Page**
+### Home Page
 
-![Home Page](screenshots/Home-Page.png)
+<table>
+  <tr>
+    <td><img src="screenshots/Home-Page.png" width="450"></td>
+    <td><img src="screenshots/Create-Listing.png" width="450"></td>
+  </tr>
+</table>
 
-**Listing Details**
+### Listing Details
 
-![Listing Details](screenshots/Listing-Details.png)
-![Listing Details](screenshots/ListingDetails2.png)
-![Listing Details](screenshots/ListingDetails3.png)
-
-**Create a Listing**
-![Home Page](screenshots/Create-Listing.png)
+<table>
+  <tr>
+    <td><img src="screenshots/Listing-Details.png" width="450"></td>
+    <td><img src="screenshots/ListingDetails2.png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/ListingDetails3.png" width="450"></td>
+    <td></td>
+  </tr>
+</table>
 
 <br>
 
