@@ -78,12 +78,7 @@ StayZy follows the **MVC (Model-View-Controller) architecture** to organize appl
 
 ## 🚀 Getting Started
 
-<br>
-<br>
 Follow these steps to run StayZy on your local machine.
-
-<br>
-<br>
 
 ### 📋 Prerequisites
 
@@ -93,8 +88,6 @@ Follow these steps to run StayZy on your local machine.
 - Mapbox access token
 
 <br>
-<br>
-
 ### 1️⃣ Clone the Repository
 
 ```bash
