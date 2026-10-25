@@ -36,7 +36,6 @@ You can also create a new account using the Sign Up option.
   <tr>
     <td><img src="screenshots/ListingDetails3.png" width="450"></td>
     <td><img src="screenshots/Create-Listing.png" width="450"></td>
-    <td></td>
   </tr>
 </table>
 
