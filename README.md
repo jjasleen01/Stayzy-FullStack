@@ -16,16 +16,16 @@ You can also create a new account using the Sign Up option.
 
 ## Screenshots
 
-### Home Page
+### Home Page & SignUp
 
 <table>
   <tr>
     <td><img src="screenshots/Home-Page.png" width="450"></td>
-    <td><img src="screenshots/Create-Listing.png" width="450"></td>
+    <td><img src="screenshots/SignUp-Page.png" width="450"></td>
   </tr>
 </table>
 
-### Listing Details
+### Listing Details & Create New Listing
 
 <table>
   <tr>
@@ -34,6 +34,7 @@ You can also create a new account using the Sign Up option.
   </tr>
   <tr>
     <td><img src="screenshots/ListingDetails3.png" width="450"></td>
+    <td><img src="screenshots/Create-Listing.png" width="450"></td>
     <td></td>
   </tr>
 </table>
